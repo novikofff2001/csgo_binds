@@ -1,0 +1,1 @@
+ent_fire !self addoutput "health 2000"

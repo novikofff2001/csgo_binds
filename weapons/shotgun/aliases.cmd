@@ -1,0 +1,8 @@
+alias +shotgun_1 "exec weapons\shotgun\+weapon_nova.cmd; alias -shotgun_toggle -shotgun_1;"
+alias -shotgun_1 "exec weapons\shotgun\-weapon_nova.cmd; alias +shotgun_toggle +shotgun_2;"
+alias +shotgun_2 "exec weapons\shotgun\+weapon_sawedoff.cmd; alias -shotgun_toggle -shotgun_2;"
+alias -shotgun_2 "exec weapons\shotgun\-weapon_sawedoff.cmd; alias +shotgun_toggle +shotgun_3;"
+alias +shotgun_3 "exec weapons\shotgun\+weapon_xm1014.cmd; alias -shotgun_toggle -shotgun_3;"
+alias -shotgun_3 "exec weapons\shotgun\-weapon_xm1014.cmd; alias +shotgun_toggle +shotgun_4;"
+alias +shotgun_4 "exec weapons\shotgun\+weapon_mag7.cmd; alias -shotgun_toggle -shotgun_4;"
+alias -shotgun_4 "exec weapons\shotgun\-weapon_mag7.cmd; alias +shotgun_toggle +shotgun_1;"

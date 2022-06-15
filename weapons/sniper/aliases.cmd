@@ -1,0 +1,8 @@
+alias +sniper_1 "exec weapons\sniper\+weapon_awp.cmd; alias -sniper_toggle -sniper_1;"
+alias -sniper_1 "exec weapons\sniper\-weapon_awp.cmd; alias +sniper_toggle +sniper_2;"
+alias +sniper_2 "exec weapons\sniper\+weapon_g3sg1.cmd; alias -sniper_toggle -sniper_2;"
+alias -sniper_2 "exec weapons\sniper\-weapon_g3sg1.cmd; alias +sniper_toggle +sniper_3;"
+alias +sniper_3 "exec weapons\sniper\+weapon_scar20.cmd; alias -sniper_toggle -sniper_3;"
+alias -sniper_3 "exec weapons\sniper\-weapon_scar20.cmd; alias +sniper_toggle +sniper_4;"
+alias +sniper_4 "exec weapons\sniper\+weapon_ssg08.cmd; alias -sniper_toggle -sniper_4;"
+alias -sniper_4 "exec weapons\sniper\-weapon_ssg08.cmd; alias +sniper_toggle +sniper_1;"
